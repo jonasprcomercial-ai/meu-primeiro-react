@@ -9,6 +9,7 @@ function App() {
  <div>
  <h1>Meu primeiro React</h1>
  <p>Estou aprendendo a criar interfaces.</p>
+ <p>testando</p>
  </div>
  )
 }
